@@ -1,0 +1,3 @@
+liata cu fCtii apelate din biblioteca OCSF
+next time: rulam app
+extindem fct
